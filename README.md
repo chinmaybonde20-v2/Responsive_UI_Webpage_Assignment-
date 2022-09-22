@@ -1,2 +1,2 @@
 # Responsive_UI_Webpage_Assignment
-Responsive_UI_Webpage_Assignment 
+Responsive UI Webpage Assignment
