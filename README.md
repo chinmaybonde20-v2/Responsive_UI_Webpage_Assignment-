@@ -1,8 +1,9 @@
-# Responsive_UI_Webpage_Assignment
-Responsive UI Webpage Assignment
-Members
-1. Chinmay Bonde
-2. Suvam Behera
-3. Mitali Mane
-4. Samira Arte
-5. Shabharish Shetty
+# Responsive UI Webpage Assignment
+<h1><b>Members</b></h1>
+<ol>
+<li>Chinmay Bonde</li>
+<li>Suvam Behera</li>
+<li>Mitali Mane</li>
+<li>Samira Arte</li>
+<li>Shabharish Shetty</li>
+</ol>
